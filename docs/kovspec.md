@@ -40,6 +40,18 @@ játékokhoz viszonyítva.A játékokat elmentjük egy adatbázisba ahol lépese
 alapján rangsoroljuk a játékosokat.A demo verzió egyelőre csak terminálban tettük a játékot 
 játszhatóvá de tervben van egy UserInterface is ami hibátlanul el tud érni minden opciót.
 
+## Jelenlegi üzleti folyamatok
+
+A jelelegi piacon az általunk tervezett(remasterd) játéknak
+több verziója is megtalálható.Más verzió alatt akár a tába
+méretére is gondolhatunk vagy a kirakandó bábúk számára esetleg.
+Az általunk létrehozott verzió egy úgymond egyszerüsített változat
+mivel az átlós lépést kivettük belőle.Amennyiben sikerül a játékot 
+népszerüsíteni a mi verziónk lesz a standard ami annyit tesz, hogy 
+a mi általunk létrehozott játek lesz az amire minden hasolno játék 
+utalni tud majd.
+
+
 
 
 
