@@ -12,5 +12,12 @@ Erre tökéletesen alkalmas az Inline3: egy végtelenül egyszerű
 pakolgatnunk egy táblán. A feladat önmagában egyszerű, de
 ekkor jön be az ellenfél, aki megpróbálja megakadályozni
 a nyerésünket, illetve közelebb vinni magát a győzelemhez.
+A játék megvalósítása alapvetően nem bonyolult analóg, klasszikus
+társasjáték módján sem (akár saját kezűleg elkészítve sem)
+, viszont ezen projekt arra törekszik, hogy megszeressük
+a modern kor egyik legnagyobb találmányának legegyszerűbb felhasználási
+módját, a terminál alapú számítógéphasználatot (nagyon kevesen
+szeretik manapság a terminált, főleg felhasználói körben,
+viszont a legtöbbször ez tud lenni a legegyszerűbb módszer).
 
 ## Jelenlegi helyzet
