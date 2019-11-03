@@ -29,7 +29,16 @@ mégis a megvalósításban rejlik: a projektünk a terminál
 alapú számítógéphasználat megszeretését, megszokását segíti
 elő.
 
+## Vágyálom rendszer
 
+Az Inline3 nevezetű játékot szeretnénk fejleszteni.
+A játekot két ember tudsz játszani és az a lényege, hogy 3 megadott bábút
+kell egy sorba rendezni a 4x5ös táblan.Minden körben egyszer léphetünk egy bábúval
+egy üres mezőre le,fel,jobbra vagy balra.Ezt a jatékot probájuk lefutási idő 
+szempontjából a leggyorsabb módon tekintettel a piacon lévő konkuresn
+játékokhoz viszonyítva.A játékokat elmentjük egy adatbázisba ahol lépesek 
+alapján rangsoroljuk a játékosokat.A demo verzió egyelőre csak terminálban tettük a játékot 
+játszhatóvá de tervben van egy UserInterface is ami hibátlanul el tud érni minden opciót.
 
 
 
