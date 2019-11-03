@@ -1,4 +1,4 @@
-# UNIDEB MINORS
+# UNIDEB MINORZ
 # Funkcionális specifikáció
 
 ## Helyes felhasználási esetek
