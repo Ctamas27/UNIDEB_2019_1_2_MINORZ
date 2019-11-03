@@ -77,6 +77,3 @@ Enyhén kivajazott serpenyőben megsütjük a palacsintákat.
 
 
 
-
-
-

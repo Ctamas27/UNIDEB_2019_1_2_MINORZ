@@ -53,3 +53,20 @@ ezálltal a felhasználók visszajelzésének köszönhetően a további fejlesz
 - Gyors egyértelmű kezelőfelület
 - Újrajátszhatóság
 - Lokális gépen való kétszemélyes játékmenet
+
+## Követelménylista
+
+* egyszerű kezelés
+* élvezhető játékélmény
+* fejleszthetőség
+* mobilitás(bármilyen arra alkalmas eszközon való elérés)
+
+## Használati esetek
+
+* Unalom esetén remenk szórakoztatási lehetőség 
+
+
+## Megfeleltetés, hogyan fedik le a használati esetek a követelményeket
+
+ Mivel egy könnyen hozzáférhető játékról van szó és a kezelése is egyszerű nem vesz sok időt a játék
+ indítása és kezelése. Emellett mivel egy élvezetes játékról van szó unalom űzésre tökéletesen megfelel.
