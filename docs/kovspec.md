@@ -51,6 +51,11 @@ népszerüsíteni a mi verziónk lesz a standard ami annyit tesz, hogy
 a mi általunk létrehozott játek lesz az amire minden hasolno játék 
 utalni tud majd.
 
+## Igényelt üzleti folyamatok
+
+Klasszikus társasjáték nem klasszikus verziójának implementálása egy modern környezetben. Minden előnyével az adott 
+technológiának. Konzolos formában a játék nem túl impresszív de ennek megszokása informatikában tanulóknak szükséges
+
 
 
 
