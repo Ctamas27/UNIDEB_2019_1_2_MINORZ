@@ -55,3 +55,13 @@ megismerkedik a számítógép legnagyobb mumusának titulált
 eszküzével, a terminállal. Fiatalabbak generációk fogékonyabbak
 arra, ha játszva tanulnak, így az oktatásba könnyebben
 lehetne implementálni a terminál használatának tanítását.
+
+### Projekt terv
+
+A szoftver célja a klasszikus értelemben vett társasjáték
+egy részében történő leváltása, megváltoztatása:
+
+* Analóg társasjáték gépesítése
+
+* Számítógépes társasjáték terminál alapú megvalósítása,
+ösztönzés a tanulásra
