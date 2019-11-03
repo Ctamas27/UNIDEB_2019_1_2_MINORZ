@@ -1,6 +1,13 @@
 # UNIDEB MINORZ
 # Funkcionális specifikáció
 
+## Bevezetés
+
+Egy unalmas délutánt misem dobhatna jobban fel mint egy egészséges kis versengés a barátokkal. Sőt mi több ezt úgy
+hogy közben az agyadat is tornáztatod ezélltal nem lustul el. Kellemeset a hasznossal, sokszor elfelejtik az emberek
+hogy a játék célja a kikapcsolódás és nem a versengés célunk hogy az előbbit preferálva alkossunk egy olyan eszközt 
+az említett tevékenység elvégzésére ami melett egy kellemes baráti időtöltés kerekedik ki.
+
 ## Helyes felhasználási esetek
 
 a) Program elsődleges célja a felhasználó szórakoztatása, hogy
