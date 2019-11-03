@@ -64,6 +64,10 @@ technológiának. Konzolos formában a játék nem túl impresszív de ennek meg
 * fejleszthetőség
 * mobilitás(bármilyen arra alkalmas eszközon való elérés)
 
+## Használati esetek
+
+* Unalom esetén remenk szórakoztatási lehetőséggit 
+
 
 
 
