@@ -80,3 +80,16 @@ Ferenczi Péter  | szoftverfejlesztő, szoftvertesztelő
 Czibere Tamás    | szoftverfejlesztő, szoftvertesztelő
 
 ### Ütemterv 
+
+Négy részre bontjuk a menetet
+
+* Dokumentációk megírása
+** Követelményspecifikáció
+** Funkcionális specifikáció
+** Rendszerterv
+* Szoftver megírása
+* Tesztelés
+* Hibák javítása
+
+A négy rész elkülöníthető, de hatással vannak egymásra, így
+maguk után vonhatják a folyamatok a többi folyamat frissítését.
