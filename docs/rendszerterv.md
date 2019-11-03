@@ -67,3 +67,14 @@ egy részében történő leváltása, megváltoztatása:
 ösztönzés a tanulásra
 
 ###  Projektszerepkörök és felelősségeik
+
+A projektben résztvevő felek minden tekintetben egyenrangúak,
+viszont a scrum módszert követve megválasztásra került az ún.
+Teamleader, aki a projekt koordinálását végzi, viszont a fejlesztői
+szerepkörben is ugyanúgy kiveszi a részét
+
+Név |   Szerepkör
+-----------|---------
+Magyar Zsolt | Teamleader, szoftverfejlesztő, szoftvertesztelő
+Ferenczi Péter  | szoftverfejlesztő, szoftvertesztelő
+Czibere Tamás    | szoftverfejlesztő, szoftvertesztelő
