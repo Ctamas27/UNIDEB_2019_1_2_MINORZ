@@ -84,9 +84,9 @@ Czibere Tamás    | szoftverfejlesztő, szoftvertesztelő
 Négy részre bontjuk a menetet
 
 * Dokumentációk megírása
-- Követelményspecifikáció
-- Funkcionális specifikáció
-- Rendszerterv
+-- Követelményspecifikáció
+-- Funkcionális specifikáció
+-- Rendszerterv
 * Szoftver megírása
 * Tesztelés
 * Hibák javítása
