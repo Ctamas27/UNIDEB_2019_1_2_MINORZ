@@ -1,6 +1,4 @@
 # UNIDEB MINORZ
 ## Rendszerterv  
 
-
-
-
+### Bevezetés
