@@ -116,3 +116,15 @@ A program használatához
 semmiféle előképzettség nem szükséges, minden funkciója
 felhasználó közeli, a játékszabályok ismerete elég a
 megfelelő játék előidézéséhez.
+
+###  Üzleti folyamatok
+
+Példa üzleti folyamatra:
+* 1-es számú játékos beírja a nevét
+* 2-es számú játékor beírja a nevét
+* 1-es játékos választ egy korongot majd lép vele
+* 2-es játékos választ egy korongot majd lép vele
+
+A játék végén: 
+A program kiírja a győztes nevét, majd lehetőséget ad
+új játék kezdeményezésére, itt megadhatunk új játékosokat.
