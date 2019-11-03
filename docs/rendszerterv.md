@@ -37,4 +37,21 @@ nagyon hasznosnak találhatjuk, ha csak a terminál áll lehetőségünkre.
 
 ### A rendszer célja
 
-A rendszer célja, hogy népszerűsítse
+A rendszer célja, hogy népszerűsítse, illetve részben
+leváltsa a klasszikus társasjátékokat. Ennek a játéknak
+az említésekor érdemes definiálni a klasszikus társasjátékot.
+Klasszikus társasjáték a táblás társasjáték, illetve a
+számítógépesek közül az, amelyiket egyszerűen, egér segítségével
+tudunk irányítani.
+Egy táblás játékot képes leváltani (nem csak táblásat,
+bármilyen kézzel fogható játékot) annak köszönhetően, hogy
+nem kell sehová sem mennünk, hogy jétszani tudjunk. Nem kell
+nagy összegeket fizetnünk anyagköltségre és hasonlókra, a
+számítógépes játékok nagy előnye, hogy nem kell fizetnünk
+a felhasznált anyagokért és a sokszorosításért sem.
+Ezen felül egy klasszikus számítógépes társasjátékot is
+képes leváltani úgy, hogy itt játszva tanul az ember és
+megismerkedik a számítógép legnagyobb mumusának titulált
+eszküzével, a terminállal. Fiatalabbak generációk fogékonyabbak
+arra, ha játszva tanulnak, így az oktatásba könnyebben
+lehetne implementálni a terminál használatának tanítását.
