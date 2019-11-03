@@ -60,16 +60,19 @@ technológiának. Konzolos formában a játék nem túl impresszív de ennek meg
 ## Követelménylista
 
 * egyszerű kezelés
-* élvezhető játék élmény
+* élvezhető játékélmény
 * fejleszthetőség
 * mobilitás(bármilyen arra alkalmas eszközon való elérés)
 
 ## Használati esetek
 
-* Unalom esetén remenk szórakoztatási lehetőséggit 
+* Unalom esetén remenk szórakoztatási lehetőség 
 
 
+## Megfeleltetés, hogyan fedik le a használati esetek a követelményeket
 
+ Mivel egy könnyen hozzáférhető játékról van szó és a kezelése is egyszerű nem vesz sok időt a játék
+ indítása és kezelése. Emellett mivel egy élvezetes játékról van szó unalom űzésre tökéletesen megfelel.
 
 
 
