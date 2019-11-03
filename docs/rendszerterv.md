@@ -133,3 +133,7 @@ A program kiírja a győztes nevét, majd lehetőséget ad
   
 Az üzletben lévő entitások:
 - A játékot játszó két ellenfél
+
+### Fejlesztő eszközök  
+
+IntelliJ IDEA, standard linux terminal
