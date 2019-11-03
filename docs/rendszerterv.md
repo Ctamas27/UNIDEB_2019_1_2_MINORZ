@@ -34,3 +34,7 @@ hogy miként is tudunk programokat irányítani szavakkal,
 mi történik a háttérben akkor, amikor lenyomjuk az egérnek
 valamelyik gombját. A játék során használt tudást később
 nagyon hasznosnak találhatjuk, ha csak a terminál áll lehetőségünkre.
+
+### A rendszer célja
+
+A rendszer célja, hogy népszerűsítse
