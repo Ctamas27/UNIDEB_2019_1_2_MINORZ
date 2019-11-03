@@ -57,7 +57,12 @@ Klasszikus társasjáték nem klasszikus verziójának implementálása egy mode
 technológiának. Konzolos formában a játék nem túl impresszív de ennek megszokása informatikában tanulóknak szükséges
 
 
+## Követelménylista
 
+* egyszerű kezelés
+* élvezhető játék élmény
+* fejleszthetőség
+* mobilitás(bármilyen arra alkalmas eszközon való elérés)
 
 
 
