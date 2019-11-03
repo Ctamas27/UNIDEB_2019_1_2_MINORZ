@@ -1,4 +1,4 @@
-# UNIDEB MINORS
+# UNIDEB MINORZ
 # Követelményspecifikáció
 
 ## Bevezetés
