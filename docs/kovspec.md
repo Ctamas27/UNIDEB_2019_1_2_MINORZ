@@ -21,3 +21,23 @@ szeretik manapság a terminált, főleg felhasználói körben,
 viszont a legtöbbször ez tud lenni a legegyszerűbb módszer).
 
 ## Jelenlegi helyzet
+
+A játék jelen van az interneten különböző verziókban:
+eltér a tábla mérete, a lerakandó korongok száma,
+legtöbbször a színük is, viszont a legnagyobb különbség
+mégis a megvalósításban rejlik: a projektünk a terminál
+alapú számítógéphasználat megszeretését, megszokását segíti
+elő.
+
+
+
+
+
+
+
+
+
+
+
+
+
