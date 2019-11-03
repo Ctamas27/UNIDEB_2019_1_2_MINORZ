@@ -41,3 +41,15 @@ használatakor.
 - Bármiféle konfliktus keltés lokális hálózatonmás programokkal.
 - Játéknak nem célja bevételt termelni.
 - Nem célja a játéknak a klasszikus négy a nyerőt leváltani hanem módosítása és népszerűsítése a cél
+
+## Jelenlegi üzleti folyamatok modellje
+
+A játéknak nem célja bevételt termelni, viszont annál inkább a terjedése. Célja minél több felhasználó bevonása
+ezálltal a felhasználók visszajelzésének köszönhetően a további fejlesztések megkönnyítése.
+
+## Igényelt üzleti folyamatok
+
+- Játékos állások mentése
+- Gyors egyértelmű kezelőfelület
+- Újrajátszhatóság
+- Lokális gépen való kétszemélyes játékmenet
