@@ -65,3 +65,5 @@ egy részében történő leváltása, megváltoztatása:
 
 * Számítógépes társasjáték terminál alapú megvalósítása,
 ösztönzés a tanulásra
+
+###  Projektszerepkörök és felelősségeik
