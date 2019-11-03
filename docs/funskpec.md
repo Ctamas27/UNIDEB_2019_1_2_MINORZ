@@ -15,14 +15,16 @@ esetleges nyerő lépését, érdemes kereszt irányú nyerő poziciót kialakí
 
 d) Játékosok felváltva lépnek, céljuk hogy másik játékostól hamarabb rakják az ő bábuikat egy sorba. Játék
 kezdetekor helyes és könnyen beazonosítható név megadása nem kötelező de nem árt. Több menetet is játszhatnak ugyan abban
-a játlkmenetben ugyan azon a néven a játékosok így könnyen nyomon tudják követni az egymás közötti állást.
+a játékmenetben ugyan azon a néven a játékosok így könnyen nyomon tudják követni az egymás közötti állást.
 
 
 ## Jelenlegi helyzet
 
 A klasszikus négy a nyerő játék egy igen elterjedt és kedvelt táblajáték, bár szórakoztató ezt a játék logikát
 több féle képpen is lehet implementálni, circle.javaünak ez a célja egy hasonló logikán alapuló
-de mégis més irányból megközelített szemlélettel állítani kihívást a leendő játékosok elé.
+de mégis más irányból megközelített szemlélettel állítani kihívást a leendő játékosok elé.
+Ma már kevésbé szeretett terminál kezelés megszerettetése és megismertetése a játékossal az esetleg jövőbeni 
+használatakor.
 
 
 ## A játéknak nem célja
