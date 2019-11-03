@@ -93,3 +93,6 @@ Négy részre bontjuk a menetet
 
 A négy rész elkülöníthető, de hatással vannak egymásra, így
 maguk után vonhatják a folyamatok a többi folyamat frissítését.
+
+### Mérföldkövek
+
