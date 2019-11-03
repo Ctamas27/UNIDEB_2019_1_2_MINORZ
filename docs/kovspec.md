@@ -67,7 +67,7 @@ A lisztet átszitáljuk, elkeverjük a cukorral, és folyamatos keverés mellett
 Folyamatos keverés mellett szép lassan hozzáadagoljuk a tejet, és addig keverjük, amíg teljesen homogén nem lesz.
 Ezt követően jöhet bele az olvasztott vaj és a citromhéj.
 Hűtőbe tesszük két órát pihenni.
-Enyhén kivajazott serpenyőben megsütjük a palacsintákat.
+Enyhén kivajazott serpenyőben megsütjük a palacsintákat. Majd jóétvággyal elfogyasztjuk! :)
 
 
 
