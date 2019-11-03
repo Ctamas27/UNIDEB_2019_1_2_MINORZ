@@ -128,3 +128,8 @@ Példa üzleti folyamatra:
 A játék végén: 
 A program kiírja a győztes nevét, majd lehetőséget ad
 új játék kezdeményezésére, itt megadhatunk új játékosokat.
+
+###  Üzleti entitások  
+  
+Az üzletben lévő entitások:
+- A játékot játszó két ellenfél
