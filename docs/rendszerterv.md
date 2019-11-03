@@ -78,3 +78,5 @@ Név |   Szerepkör
 Magyar Zsolt | Teamleader, szoftverfejlesztő, szoftvertesztelő
 Ferenczi Péter  | szoftverfejlesztő, szoftvertesztelő
 Czibere Tamás    | szoftverfejlesztő, szoftvertesztelő
+
+### Ütemterv 
