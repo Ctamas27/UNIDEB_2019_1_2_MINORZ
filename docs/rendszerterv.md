@@ -104,3 +104,6 @@ Fő mérföldkövek:
 - Program elkészítése
 - Program tesztelése
 - Program esetleges hibáinak javítása
+
+###  Üzleti szereplők
+
