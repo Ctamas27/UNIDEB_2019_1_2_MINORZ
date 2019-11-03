@@ -2,3 +2,5 @@
 # Követelményspecifikáció
 
 ## Bevezetés
+
+## Jelenlegi helyzet
