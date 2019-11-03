@@ -57,22 +57,7 @@ Klasszikus társasjáték nem klasszikus verziójának implementálása egy mode
 technológiának. Konzolos formában a játék nem túl impresszív de ennek megszokása informatikában tanulóknak szükséges
 
 
-## Követelménylista
 
-* egyszerű kezelés
-* élvezhető játékélmény
-* fejleszthetőség
-* mobilitás(bármilyen arra alkalmas eszközon való elérés)
-
-## Használati esetek
-
-* Unalom esetén remenk szórakoztatási lehetőség 
-
-
-## Megfeleltetés, hogyan fedik le a használati esetek a követelményeket
-
- Mivel egy könnyen hozzáférhető játékról van szó és a kezelése is egyszerű nem vesz sok időt a játék
- indítása és kezelése. Emellett mivel egy élvezetes játékról van szó unalom űzésre tökéletesen megfelel.
 
 
 
