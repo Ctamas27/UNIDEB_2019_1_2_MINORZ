@@ -1,0 +1,2 @@
+# UNIDEB MINORS
+# Funkcionális specifikáció
