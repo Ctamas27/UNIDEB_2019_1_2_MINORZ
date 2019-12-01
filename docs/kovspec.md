@@ -40,6 +40,7 @@ ilyen pl. a Steam
 Ezekkel a legnagyobb baj, hogy némelyikük játszhatatlan,
 a játéknak a mechanikáját teljes egészében nem teljesen 
 sikerül implementálni, sok esetben nagyon csúnyák ezek a játékok.
+
 Akárhogyan is nézzük a témát, nem találunk az interneten
 sehol sem olyan szoftvert, amelyben csakis kizárólag társasjátékok
 találhatók meg, illetve viszonylag új és nagyszerű társasjátékoknak
