@@ -1,12 +1,12 @@
 # UNIDEB MINORS
 
-## Előzetes ismeretek alapján elkészített játék
+## Játékszoftver csomag
 
-Ebben a projectben egy végtelenül egyszerű, mégis kifejezetten
-taktikai játékot valósítunk meg. (A mi megvalósításunkban a 
-játék az Inline3 nevet kapta).
-A játékosok egy könnyed játékon belül képesek megmérettetni
-magukat, megmutatni egymásnak a taktaikai képességeiket.
+Ebben a projektben egy szoftvercsomagot valósítottunk meg,
+melynek a lényege, hogy kölünféle, akár sokak számára
+ismert játékok találhatóak benne elektronikus formában.
+Legfőképp társasjátékok szerepelnek a listában, de bármiféle
+játék hozzáadható, bárki igénye és kedve szerint.
 
 ----
 
