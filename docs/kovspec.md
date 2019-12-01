@@ -75,14 +75,16 @@ lehetősége kipróbálnia azt saját szemszögéből.
 
 ## Jelenlegi üzleti folyamatok
 
-A jelelegi piacon az általunk tervezett(remastered) játéknak
-több verziója is megtalálható. Más verzió alatt akár a tába
-méretére is gondolhatunk vagy a kirakandó bábuk számára esetleg.
-Az általunk létrehozott verzió egy úgymond egyszerüsített változat
-mivel az átlós lépést kivettük belőle. Amennyiben sikerül a játékot 
-népszerüsíteni a mi verziónk lesz a standard ami annyit tesz, hogy 
-a mi általunk létrehozott játek lesz az amire minden hasolno játék 
-utalni tud majd.
+Mivel jelenleg nem létezik konkrétan ilyen szoftvercsomag,
+az alábbiakban felsorolt üzleti folyamatokat tudjuk
+megkülönböztetni:
+1. Ki kell találnunk, mit szeretnénk játszani (mivel nincs
+lehetőség egy tárházban keresni)
+2. Meg kell keresnünk az interneten. Ha nincs számítógépes
+verzió, akkor egy másik játékot kell választanunk.
+3. Le kell tölteni (esetleg meg kell vásárolni, nincs
+kipróbálás), sok esetben bajlódni kell a telepítéssel.
+
 
 ## Igényelt üzleti folyamatok
 
