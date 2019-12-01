@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="669.0" prefWidth="888.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Zsolti">
+    <children>
+        <Button fx:id="exit" layoutX="773.0" layoutY="600.0" mnemonicParsing="false" onAction="#exit" prefHeight="45.0" prefWidth="92.0" text="EXIT" />
+        <Button fx:id="backToMenu" layoutX="615.0" layoutY="600.0" mnemonicParsing="false" onAction="#backToMenu" prefHeight="45.0" prefWidth="135.0" text="Vissza a Menübe" />
+        <Label alignment="CENTER" layoutX="183.0" layoutY="27.0" prefHeight="52.0" prefWidth="499.0" text="Három a nyerő társasjáték">
+            <font>
+                <Font size="31.0" />
+            </font>
+        </Label>
+        <AnchorPane layoutX="132.0" layoutY="133.0" prefHeight="339.0" prefWidth="319.0">
+            <children>
+                <Label fx:id="i" layoutX="1.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style="-fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid; -fx-background-color: blue;" />
+                <Label fx:id="ii" layoutX="81.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style="-fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid; -fx-background-color: red;" />
+                <Label fx:id="iii" layoutX="159.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style="-fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid; -fx-background-color: blue;" />
+                <Label fx:id="iiii" layoutX="239.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style="-fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid; -fx-background-color: red;" />
+                <Label fx:id="iiiii" layoutX="1.0" layoutY="73.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style=" -fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid;" />
+                <Label fx:id="iiiiii" layoutX="81.0" layoutY="73.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style=" -fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid;" />
+                <Label fx:id="iiiiiii" layoutX="159.0" layoutY="73.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style=" -fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid;" />
+                <Label fx:id="iiiiiiii" layoutX="239.0" layoutY="73.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style=" -fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid;" />
+                <Label fx:id="iiiiiiiii" layoutX="1.0" layoutY="146.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style=" -fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid;" />
+                <Label fx:id="iiiiiiiiii" layoutX="81.0" layoutY="146.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style=" -fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid;" />
+                <Label fx:id="iiiiiiiiiii" layoutX="159.0" layoutY="146.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style=" -fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid;" />
+                <Label fx:id="iiiiiiiiiiii" layoutX="239.0" layoutY="146.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style=" -fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid;" />
+                <Label fx:id="iiiiiiiiiiiii" layoutX="1.0" layoutY="219.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style=" -fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid;" />
+                <Label fx:id="iiiiiiiiiiiiii" layoutX="81.0" layoutY="219.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style=" -fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid;" />
+                <Label fx:id="iiiiiiiiiiiiiii" layoutX="159.0" layoutY="219.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style=" -fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid;" />
+                <Label fx:id="iiiiiiiiiiiiiiii" layoutX="239.0" layoutY="219.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style=" -fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid;" />
+                <Label fx:id="iiiiiiiiiiiiiiiii" layoutX="1.0" layoutY="292.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style="-fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid; -fx-background-color: red;" />
+                <Label fx:id="iiiiiiiiiiiiiiiiii" layoutX="81.0" layoutY="292.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style="-fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid; -fx-background-color: blue;" />
+                <Label fx:id="iiiiiiiiiiiiiiiiiii" layoutX="159.0" layoutY="292.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style="-fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid; -fx-background-color: red;" />
+                <Label fx:id="iiiiiiiiiiiiiiiiiiii" layoutX="239.0" layoutY="292.0" onMouseClicked="#selectTile" prefHeight="73.0" prefWidth="80.0" style="-fx-border-color: black; -fx-border-width: 1; -fx-border-style: solid; -fx-background-color: blue;" />
+            </children>
+        </AnchorPane>
+        <Label fx:id="current" layoutX="503.0" layoutY="149.0" prefHeight="21.0" prefWidth="179.0" style="-fx-background-color: red;" text="Most lép: red">
+            <font>
+                <Font size="24.0" />
+            </font></Label>
+    </children>
+</AnchorPane>

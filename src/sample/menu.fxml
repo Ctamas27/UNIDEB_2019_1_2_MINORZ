@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="669.0" prefWidth="888.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Menu">
+    <children>
+        <Button fx:id="zsoltiload" layoutX="124.0" layoutY="236.0" mnemonicParsing="false" onAction="#loadZsoltiGame" prefHeight="51.0" prefWidth="89.0" text="Zsolti" />
+        <Button fx:id="petiload" layoutX="400.0" layoutY="236.0" mnemonicParsing="false" onAction="#loadPetiGame" prefHeight="51.0" prefWidth="89.0" text="Peti" />
+        <Button fx:id="tomiload" layoutX="668.0" layoutY="236.0" mnemonicParsing="false" onAction="#loadTomiGame" prefHeight="51.0" prefWidth="89.0" text="Tomi" />
+        <Button fx:id="exit" layoutX="388.0" layoutY="440.0" mnemonicParsing="false" onAction="#exit" prefHeight="78.0" prefWidth="114.0" text="EXIT" />
+        <Label alignment="CENTER" layoutX="375.0" layoutY="65.0" prefHeight="78.0" prefWidth="139.0" text="Menu" textAlignment="CENTER">
+            <font>
+                <Font size="48.0" />
+            </font>
+        </Label>
+    </children>
+</AnchorPane>
