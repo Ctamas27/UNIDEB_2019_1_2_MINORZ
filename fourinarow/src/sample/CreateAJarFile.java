@@ -16,7 +16,7 @@ import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 
-public class Peti extends Application {
+public class CreateAJarFile extends Application {
 
     static int speed = 5;
     static int foodcolor = 0;
@@ -29,6 +29,13 @@ public class Peti extends Application {
     static Dir direction = Dir.left;
     static boolean gameOver = false;
     static Random rand = new Random();
+
+    public static void main() {
+        {
+            String args = null;
+            launch(args);
+        }
+    }
 
     public enum Dir {
         left, right, up, down
@@ -216,9 +223,6 @@ public class Peti extends Application {
 
         }
     }
-
-    public static void main(String[] args) {
-        launch(args);
-    }
+    
 
 }

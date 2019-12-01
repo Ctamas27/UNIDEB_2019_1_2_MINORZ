@@ -1,5 +1,6 @@
 package sample;
 import javafx.application.Platform;
+import javafx.embed.swing.JFXPanel;
 import javafx.fxml.FXML;
 import java.util.ResourceBundle;
 import javafx.event.*;
@@ -10,6 +11,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.paint.Color.*;
 import javafx.scene.paint.Paint;
 import javafx.scene.shape.*;
+import javafx.stage.Stage;
 
 import javax.swing.*;
 import java.util.Scanner;
@@ -113,7 +115,8 @@ public class Controller extends Zsolti{
         private Circle circle66;
         @FXML
         private Circle nextplayer;;
-
+        @FXML
+        private javafx.scene.control.Button exit;
 
         private Color Player1color = Color.BLUE;
         private Color Player2color = Color.RED;
@@ -238,6 +241,16 @@ public class Controller extends Zsolti{
             zsolti.soutCurrentPlayerName(winner, "Nyert", "blue");
 
         }
+    }
+
+    @FXML
+    private void backToMenu(ActionEvent actionEvent) throws IOException{
+        App.setRoot("menu");
+    }
+    @FXML
+    private void exit(ActionEvent actionEvent) throws  IOException{
+        Stage stage = (Stage) exit.getScene().getWindow();
+        stage.close();
     }
 
         @FXML
