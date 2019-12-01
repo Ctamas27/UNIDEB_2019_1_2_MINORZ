@@ -88,8 +88,15 @@ kipróbálás), sok esetben bajlódni kell a telepítéssel.
 
 ## Igényelt üzleti folyamatok
 
-Klasszikus társasjáték nem klasszikus verziójának implementálása egy modern környezetben. Minden előnyével az adott 
-technológiának. Konzolos formában a játék nem túl impresszív de ennek megszokása informatikában tanulóknak szükséges.
+Az igényelt üzleti folyamatok modellje az alábbiakból épül fel:
+1. Játék megválasztása. Ebben segítséget nyújthat a szoftver,
+amely ajánlásokat tesz, esetleg előző játékok alapján.
+A kategóriák szerinti keresés is nagy segítségünkre lehet
+a kiválasztás során.
+2. A játék megkeresése egyszerű, illetve már lehet, hogy
+meg is találtuk a megválasztás során.
+3. A játék indítása, esetleg letöltése, megvásárlása egyetlen
+gombnyomással
 
 
 
