@@ -48,14 +48,30 @@ a számítógépes reprezentációja nincsen.
 
 ## Vágyálom rendszer
 
-Az Inline3 nevezetű játékot szeretnénk fejleszteni.
-A játekot két ember tudsz játszani és az a lényege, hogy 3 megadott bábút
-kell egy sorba rendezni a 4x5ös táblan.Minden körben egyszer léphetünk egy bábúval
-egy üres mezőre le,fel,jobbra vagy balra.Ezt a jatékot probájuk lefutási idő 
-szempontjából a leggyorsabb módon tekintettel a piacon lévő konkuresn
-játékokhoz viszonyítva.A játékokat elmentjük egy adatbázisba ahol lépesek 
-alapján rangsoroljuk a játékosokat.A demo verzió egyelőre csak terminálban tettük a játékot 
-játszhatóvá de tervben van egy UserInterface is ami hibátlanul el tud érni minden opciót.
+- Olyan szoftvert szeretnénk, amelyben minden játék egyszerűen
+elérhető, és minden játék úgy van implementálva, ahogyan
+azok a klasszikus társasjáték formában vannak jelen.
+Minden szabály jelen van és betartható, ezeken belül a 
+játékosok tudjanak mindent megtenni.
+- Balanszolt pontrendszer: játékoktól függően mindegyikhez
+tartozzon egy pontszámrendszer. A nyertesek az egyes játékokban
+kapjanak pontot a játék nehézségéhez mérten, így nem csak
+játékonként lehet majd egy pontozó tabellát felállítani,
+hanem az összesre nézve is. (Minden játékhoz egyértelműen
+tartozik egy nehézségi szint, ezt a játékszabály mérete,
+illetve a játékok hossza is meghatározza, hiszen minél
+tovább tart a játék, annál tovább kell folyamatosan
+koncentrálnia a játékosoknak).
+- Legyen lehetőség kipróbálbi a fizetős játékokat, hiszen
+senki sem szeret előre fizetni egy olyan dologért, ami lehet,
+hogy nem is tetszik az adott illetőnek, mivel még nem volt
+lehetősége kipróbálnia azt saját szemszögéből.
+- Játékok kategorizálása különféle témák szerint:
+-- Nehézség
+-- Korosztály
+-- A játék témája, játékvilága
+-- Időtartam
+-- Játékosok száma
 
 ## Jelenlegi üzleti folyamatok
 
