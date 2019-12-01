@@ -56,18 +56,6 @@ utalni tud majd.
 Klasszikus társasjáték nem klasszikus verziójának implementálása egy modern környezetben. Minden előnyével az adott 
 technológiának. Konzolos formában a játék nem túl impresszív de ennek megszokása informatikában tanulóknak szükséges.
 
-## Palacsinta receptje
-
-- Hozzávalók: A palacsinta receptek közül nekem ez vált be legjobban. Kicsit vastagabb tészta lesz a végeredmény de aki vékony tésztásan szereti 
-kicsit vegye vissza a tejmennyiségét és helyetesítse azt vízzel.
-Szóval a hozzávalók, kell 1 liter tej, 40 deka finomliszt, 4 darab tojás, 10 deka olvasztott vaj, 40 gramm cukor, 1 csipet só és 1 citromból
-nyert citromhéj.
-- Elkészítése: A tojásokat egy csipet sóval jó habosra verjük.
-A lisztet átszitáljuk, elkeverjük a cukorral, és folyamatos keverés mellett hozzáadjuk a tojásokat.
-Folyamatos keverés mellett szép lassan hozzáadagoljuk a tejet, és addig keverjük, amíg teljesen homogén nem lesz.
-Ezt követően jöhet bele az olvasztott vaj és a citromhéj.
-Hűtőbe tesszük két órát pihenni.
-Enyhén kivajazott serpenyőben megsütjük a palacsintákat. Majd jóétvággyal elfogyasztjuk! :)
 
 
 
