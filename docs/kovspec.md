@@ -3,22 +3,31 @@
 
 ## Bevezetés
 
-Sokféle alapszituációt el tudunk képzelni a játékhoz. Baráti
-társaság talán a legjobb módja a szemléltetésnek. Sokszor felmerül
-az, hogy fel szeretnénk mérni a mentális erőviszonyokat, vagy éppen csak szeretnénk játszani egy egyszerű, viszont mégis taktikailag
-komplex játékkal.
-Erre tökéletesen alkalmas az Inline3: egy végtelenül egyszerű
-2 dimenziós játék, ahol 2 féle színű korongokat kell
-pakolgatnunk egy táblán. A feladat önmagában egyszerű, de
-ekkor jön be az ellenfél, aki megpróbálja megakadályozni
-a nyerésünket, illetve közelebb vinni magát a győzelemhez.
-A játék megvalósítása alapvetően nem bonyolult analóg, klasszikus
-társasjáték módján sem (akár saját kezűleg elkészítve sem)
-, viszont ezen projekt arra törekszik, hogy megszeressük
-a modern kor egyik legnagyobb találmányának legegyszerűbb felhasználási
-módját, a terminál alapú számítógéphasználatot (nagyon kevesen
-szeretik manapság a terminált, főleg felhasználói körben,
-viszont a legtöbbször ez tud lenni a legegyszerűbb módszer).
+A mai világban egyre nagyobb teret hódítanak a társasjátékok,
+különböző régről ismert játékokhoz jelennek meg új kiadások,
+kiegészítők, illetve sok-sok új és új játék jelenik meg.
+Új mechanikák, új élmények, rengeteg szórakozás.
+Viszont ezeknek a játékoknak a száma, illetve fejlődése
+minden értelemben eltörpül a mai világban a számítógép és az
+okostelefonok fejlődése mellett. Egyre több cég foglalkozik
+játékok fejlesztésével számítógépre, egyre jobb, illetve
+már-már teljesen élethű grafikájú játékok jelennek meg.
+Természetesen ezen van a nagyobb hangsúly, viszont nem szabad
+elfelejteni azokat a játékokat sem, amelyekkel mindig is játszottunk,
+vagy amelyekkel bármikor meg tudunk mérkőzni egy barátunkkal,
+ki is a nagyobb taktikus.
+Szoftverünk egy játékcsomagot kínál, amelynek az alap verziójában
+teljesen egyszerű játékokat találhatunk meg, olyanokat, mint
+például a klasszikus Négy a nyerő, vagy például a híres Snake.
+Ebben a csomagba szeretnénk implementálni minél több
+társasjátékot.
+Ennek több célja is van: már manapság lehetőségünk nyílik
+arra, hogy egy társasjátékot ki tudjunk próbálni boltokban,
+bárokban. Ez a csomag kínálni tudna egy próbalehetőséget,
+amely után el tudnánk dönteni, hogy szeretnénk-e megvenni a
+teljes verziót, vagy esetleg a klasszikus társasjátékot.
+A legegyszerűbb játékok ingyenesen játszhatóak bárkinek,
+bármikor.
 
 ## Jelenlegi helyzet
 
