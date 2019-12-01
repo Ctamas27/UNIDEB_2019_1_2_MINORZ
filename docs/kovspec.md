@@ -31,12 +31,19 @@ bármikor.
 
 ## Jelenlegi helyzet
 
-A játék jelen van az interneten különböző verziókban:
-eltér a tábla mérete, a lerakandó korongok száma,
-legtöbbször a színük is, viszont a legnagyobb különbség
-mégis a megvalósításban rejlik: a projektünk a terminál
-alapú számítógéphasználat megszeretését, megszokását segíti
-elő.
+Tudomásunk szerint jelenleg a piacon nem létezik olyan szoftver,
+amely csakis kizárólag társasjátékokat tartalmazna.
+Kétféleképpen találkozhatunk ezzel a néhánnyal:
+- Néhány társasjátét megtalálható nagyobb szoftverekben,
+ilyen pl. a Steam
+- A többi játékot az interneten böngészve tudjuk megtalálni.
+Ezekkel a legnagyobb baj, hogy némelyikük játszhatatlan,
+a játéknak a mechanikáját teljes egészében nem teljesen 
+sikerül implementálni, sok esetben nagyon csúnyák ezek a játékok.
+Akárhogyan is nézzük a témát, nem találunk az interneten
+sehol sem olyan szoftvert, amelyben csakis kizárólag társasjátékok
+találhatók meg, illetve viszonylag új és nagyszerű társasjátékoknak
+a számítógépes reprezentációja nincsen.
 
 ## Vágyálom rendszer
 
