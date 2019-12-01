@@ -13,10 +13,10 @@ public class Menu {
         App.setRoot("zsolti");
     }
 
+
     @FXML
     private void loadPetiGame() {
-        String[] arguments = new String[] {"123"};
-        Peti.main(arguments);
+
     }
 
     @FXML
