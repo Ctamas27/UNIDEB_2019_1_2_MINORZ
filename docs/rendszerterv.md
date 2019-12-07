@@ -120,14 +120,11 @@ megfelelő játék előidézéséhez.
 ###  Üzleti folyamatok
 
 Példa üzleti folyamatra:
-* 1-es számú játékos beírja a nevét
-* 2-es számú játékor beírja a nevét
-* 1-es játékos választ egy korongot majd lép vele
-* 2-es játékos választ egy korongot majd lép vele
-
-A játék végén: 
-A program kiírja a győztes nevét, majd lehetőséget ad
-új játék kezdeményezésére, itt megadhatunk új játékosokat.
+* A felhasználó előzetes ismeretek alapján vagy ajánlatok
+segítégével megkeresi a kigondolt játékot, majd elindítja 
+(esetleg letölti)
+* Játék használata
+* Visszatérés a menübe, esetleg kilépés
 
 ###  Üzleti entitások  
   
