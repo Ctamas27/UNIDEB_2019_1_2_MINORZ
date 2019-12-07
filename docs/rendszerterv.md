@@ -132,8 +132,10 @@ A program kiírja a győztes nevét, majd lehetőséget ad
 ###  Üzleti entitások  
   
 Az üzletben lévő entitások:
-- A játékot játszó két ellenfél
+- A szoftvercsomagot fejlesztők
+- Játékfejlesztők
+- A csomagot használó játékosok
 
 ### Fejlesztő eszközök  
 
-IntelliJ IDEA, standard linux terminal
+IntelliJ IDEA, SceneBuilder, standard linux terminal
