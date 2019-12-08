@@ -22,7 +22,7 @@ b) Játékosnak két célja van: Minnél több játékban sikereket érjen el ak
 
 c) Az általaunk létrehozott szoftver jelenleg tartalamz Snaket,connet4-t és 4inrow-ot
 
-d) A program elindítasakor kitudja a fehasználó választani, hogy melyikkel szeretnének játszani.
+d) A program elindítasakor kitudja a fehasználó választani, hogy melyikkel szeretne játszani.
 
 
 
@@ -35,7 +35,7 @@ Ma már kevésbé szeretett terminál kezelés megszerettetése és megismertet�
 használatakor.
 
 
-## A játéknak nem célja
+## A szoftvernek nem célja
 
 - Játékosok közötti konfliktus teremtés.
 - Több mint 2 játékos bevonása.
