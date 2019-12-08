@@ -43,8 +43,8 @@ hisz nem kötelezo versenybe szálni a játékos bázissal ha nem szeretne a fel
 
 ## Jelenlegi üzleti folyamatok modellje
 
-A játéknak nem célja bevételt termelni, viszont annál inkább a terjedése. Célja minél több felhasználó bevonása
-ezálltal a felhasználók visszajelzésének köszönhetően a további fejlesztések megkönnyítése.
+A szoftvernek nem célja bevételt termelni a jelenlegi fázisban viszont amennyiben a befut és sikereket ér el a piacon tervezünk bevételt 
+termelni. Célja minél több felhasználó bevonása ezálltal a felhasználók visszajelzésének köszönhetően a további fejlesztések megkönnyítése.
 
 ## Igényelt üzleti folyamatok
 
