@@ -4,9 +4,11 @@
 ## Bevezetés
 
 Egy unalmas délutánt misem dobhatna jobban fel mint egy egészséges kis versengés a barátokkal. Sőt mi több ezt úgy
-hogy közben az agyadat is tornáztatod ezélltal nem lustul el. Kellemeset a hasznossal, sokszor elfelejtik az emberek
-hogy a játék célja a kikapcsolódás és nem a versengés célunk hogy az előbbit preferálva alkossunk egy olyan eszközt 
-az említett tevékenység elvégzésére ami melett egy kellemes baráti időtöltés kerekedik ki.
+hogy közben az agyadat is tornáztatod ezálltal nem lustul el. Kellemeset a hasznossal, sokszor elfelejtik az emberek, 
+hogy a játék nem csak a versengésről hanem sokszor csak a kikapcsolódás miatt ül le az ember játszani.
+Mi mind két opcióval tudunk szolgálni hisz olyan játék is megtalálható a szoftverünkbe melyet teljesen egyedül is 
+játszat a játékos ezáltal nem számít miképp teljesít hisz senkivel sem játszik. Azt sem szabad elfelejteni, ezeknek a játékok is 
+nyújthatnak versengést hisz a globális pontrendszerben még mindig lehet az első helyre pályázni.
 
 ## Helyes felhasználási esetek
 
