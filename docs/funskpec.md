@@ -17,15 +17,12 @@ minél nagyobb sikert érjen el a játékban, későbbiekben két
 vagy több játékos hálózaton többszemélyes jatékmenetben
 akár egymással való versengés kialakulása.
 
-b) Játékosnak egy célja van: Másik játékosnál hamarabb rakja a bábúit egy sorba.
+b) Játékosnak két célja van: Minnél több játékban sikereket érjen el akar rekordot allítson vagy egyszerűen csak pihenés képp 
+   játszon egy jót a haverokkal
 
-c) Érdemes figyelni a másik lépéseit ez álltal olyan helyre tudunk lépni ahol meggátoljuk az ellenfél
-esetleges nyerő lépését, érdemes kereszt irányú nyerő poziciót kialakítani mivel azt hamarabb és könnyebben el lehet érni.
+c) Az általaunk létrehozott szoftver jelenleg tartalamz Snaket,connet4-t és 4inrow-ot
 
-d) Játékosok felváltva lépnek, céljuk hogy másik játékostól hamarabb rakják az ő bábuikat egy sorba. Játék
-kezdetekor helyes és könnyen beazonosítható név megadása nem kötelező de nem árt. Több menetet is játszhatnak ugyan abban
-a játékmenetben ugyan azon a néven a játékosok így könnyen nyomon tudják követni az egymás közötti állást.
-
+d) A program elindítasakor kitudja a fehasználó választani, hogy melyikkel szeretnének játszani.
 
 ## Jelenlegi helyzet
 
