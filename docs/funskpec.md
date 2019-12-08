@@ -24,6 +24,8 @@ c) Az általaunk létrehozott szoftver jelenleg tartalamz Snaket,connet4-t és 4
 
 d) A program elindítasakor kitudja a fehasználó választani, hogy melyikkel szeretnének játszani.
 
+
+
 ## Jelenlegi helyzet
 
 A klasszikus négy a nyerő játék egy igen elterjedt és kedvelt táblajáték, bár szórakoztató ezt a játék logikát
@@ -39,7 +41,7 @@ használatakor.
 - Több mint 2 játékos bevonása.
 - Bármiféle konfliktus keltés lokális hálózatonmás programokkal.
 - Játéknak nem célja bevételt termelni.
-- Nem célja a játéknak a klasszikus négy a nyerőt leváltani hanem módosítása és népszerűsítése a cél
+- Nem célja versenybeszálni a külön külön megtalálható játékokokkal.
 
 ## Jelenlegi üzleti folyamatok modellje
 
