@@ -38,7 +38,7 @@ hisz nem kötelezo versenybe szálni a játékos bázissal ha nem szeretne a fel
 - Játékosok közötti konfliktus teremtés.
 - Több mint 2 játékos bevonása.
 - Bármiféle konfliktus keltés lokális hálózatonmás programokkal.
-- Játéknak nem célja bevételt termelni.
+- Nem célja bevételt termelni jelenlegi fázisban.
 - Nem célja versenybeszálni a külön külön megtalálható játékokokkal.
 
 ## Jelenlegi üzleti folyamatok modellje
