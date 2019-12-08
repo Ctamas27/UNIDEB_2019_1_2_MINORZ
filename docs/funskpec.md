@@ -71,4 +71,4 @@ termelni. Célja minél több felhasználó bevonása ezálltal a felhasználók
 
  Mivel egy könnyen hozzáférhető szoftverről van szó és a kezelése is egyszerű nem vesz sok időt a játék
  indítása és kezelése. Emellett mivel  élvezetes játékokról van szó unalom űzésre tökéletesen megfelel.
- Az általunk implementált já
+ Az általunk implementált játékok remek versenylégkörrel bírnak.
