@@ -96,10 +96,11 @@ maguk után vonhatják a folyamatok a többi folyamat frissítését.
 
 ### Mérföldkövek
 
-Fő mérföldkövek:
+Főbb mérföldkövek:
 
 - Trello tábla létrehozása a csapatban
-- Git repo letrehozása
+- Git repo letrehozása, kollaborátorok hozzáadása
+- Discord szerver létrehozása
 - Doksik megfelelő elkészítése
 - Program elkészítése
 - Program tesztelése
