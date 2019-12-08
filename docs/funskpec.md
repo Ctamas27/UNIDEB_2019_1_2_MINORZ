@@ -7,7 +7,7 @@ Egy unalmas délutánt misem dobhatna jobban fel mint egy egészséges kis verse
 hogy közben az agyadat is tornáztatod ezálltal nem lustul el. Kellemeset a hasznossal, sokszor elfelejtik az emberek, 
 hogy a játék nem csak a versengésről hanem sokszor csak a kikapcsolódásról szól.
 Mi mind két opcióval tudunk szolgálni hisz olyan játék is megtalálható a szoftverünkbe melyet teljesen egyedül is 
-játszat a játékos ezáltal nem számít miképp teljesít hisz senkivel sem játszik. Azt sem szabad elfelejteni, ezeknek a játékok is 
+játszat a játékos ezáltal nem számít miképp teljesít hisz senkivel sem játszik. Azt sem szabad elfelejteni, ezek a játékok is 
 nyújthatnak versengést hisz a globális pontrendszerben még mindig lehet az első helyre pályázni.
 
 ## Helyes felhasználási esetek
