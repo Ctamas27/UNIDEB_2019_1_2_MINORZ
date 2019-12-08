@@ -58,20 +58,18 @@ lehetne implementálni a terminál használatának tanítását.
 
 ### Projekt terv
 
-A szoftver célja a klasszikus értelemben vett társasjáték
+A szoftver célja a klasszikus értelemben vett társasjátékok
 egy részében történő leváltása, megváltoztatása:
 
-* Analóg társasjáték gépesítése
-
-* Számítógépes társasjáték terminál alapú megvalósítása,
-ösztönzés a tanulásra
+* Analóg társasjátékok gépesítése, ezen módon is növelve 
+népszerűségüket
 
 ###  Projektszerepkörök és felelősségeik
 
 A projektben résztvevő felek minden tekintetben egyenrangúak,
 viszont a scrum módszert követve megválasztásra került az ún.
 Teamleader, aki a projekt koordinálását végzi, viszont a fejlesztői
-szerepkörben is ugyanúgy kiveszi a részét
+szerepkörben is ugyanúgy kiveszi a részét.
 
 Név |   Szerepkör
 -----------|---------
