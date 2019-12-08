@@ -63,6 +63,7 @@ termelni. Célja minél több felhasználó bevonása ezálltal a felhasználók
 ## Használati esetek
 
 * Unalom esetén remenk szórakoztatási lehetőség 
+* Versengésre való alkalamass
 
 
 ## Megfeleltetés, hogyan fedik le a használati esetek a követelményeket
