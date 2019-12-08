@@ -3,9 +3,9 @@
 
 ## Bevezetés
 
-Egy unalmas délutánt misem dobhatna jobban fel mint egy egészséges kis versengés a barátokkal. Sőt mi több ezt úgy
+Egy unalmas délutánt misem dobhatna jobban fel mint egy egészséges kis versengés a barátokkal. Sőt mi több ezt úgy, 
 hogy közben az agyadat is tornáztatod ezálltal nem lustul el. Kellemeset a hasznossal, sokszor elfelejtik az emberek, 
-hogy a játék nem csak a versengésről hanem sokszor csak a kikapcsolódás miatt ül le az ember játszani.
+hogy a játék nem csak a versengésről hanem sokszor csak a kikapcsolódásról szól.
 Mi mind két opcióval tudunk szolgálni hisz olyan játék is megtalálható a szoftverünkbe melyet teljesen egyedül is 
 játszat a játékos ezáltal nem számít miképp teljesít hisz senkivel sem játszik. Azt sem szabad elfelejteni, ezeknek a játékok is 
 nyújthatnak versengést hisz a globális pontrendszerben még mindig lehet az első helyre pályázni.
