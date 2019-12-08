@@ -28,12 +28,10 @@ d) A program elindítasakor kitudja a fehasználó választani, hogy melyikkel s
 
 ## Jelenlegi helyzet
 
-A klasszikus négy a nyerő játék egy igen elterjedt és kedvelt táblajáték, bár szórakoztató ezt a játék logikát
-több féle képpen is lehet implementálni, circle.javaünak ez a célja egy hasonló logikán alapuló
-de mégis más irányból megközelített szemlélettel állítani kihívást a leendő játékosok elé.
-Ma már kevésbé szeretett terminál kezelés megszerettetése és megismertetése a játékossal az esetleg jövőbeni 
-használatakor.
-
+A projektünk jelenelg csak három jétékot tartalmaz(Snake,connect4 és 3inrow) de tervezzük bővíteni. Mind a három játékunkat 
+kompetesnek tartjunk a piacaon hiszen mindig is nagy kereslet volt,van,lesz a játékokra emellett mi nem csak egy játékkal 
+tudunk szolgálni hanem egy egész játék csomaggal.Emellet lehetőséget adunk a szoftveren belüli versengésre is.Ez csak opcionális
+hisz nem kötelezo versenybe szálni a játékos bázissal ha nem szeretne a felhasználó.
 
 ## A szoftvernek nem célja
 
