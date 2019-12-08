@@ -59,6 +59,7 @@ termelni. Célja minél több felhasználó bevonása ezálltal a felhasználók
 * élvezhető játékélmény
 * fejleszthetőség
 * mobilitás(bármilyen arra alkalmas eszközon való elérés)
+* kompetitív legkör nyújtása
 
 ## Használati esetek
 
@@ -68,5 +69,6 @@ termelni. Célja minél több felhasználó bevonása ezálltal a felhasználók
 
 ## Megfeleltetés, hogyan fedik le a használati esetek a követelményeket
 
- Mivel egy könnyen hozzáférhető játékról van szó és a kezelése is egyszerű nem vesz sok időt a játék
- indítása és kezelése. Emellett mivel egy élvezetes játékról van szó unalom űzésre tökéletesen megfelel.
+ Mivel egy könnyen hozzáférhető szoftverről van szó és a kezelése is egyszerű nem vesz sok időt a játék
+ indítása és kezelése. Emellett mivel  élvezetes játékokról van szó unalom űzésre tökéletesen megfelel.
+ Az általunk implementált já
