@@ -37,24 +37,35 @@ nagyon hasznosnak találhatjuk, ha csak a terminál áll lehetőségünkre.
 
 ### A rendszer célja
 
-A rendszer célja, hogy népszerűsítse, illetve részben
-leváltsa a klasszikus társasjátékokat. Ennek a játéknak
-az említésekor érdemes definiálni a klasszikus társasjátékot.
-Klasszikus társasjáték a táblás társasjáték, illetve a
-számítógépesek közül az, amelyiket egyszerűen, egér segítségével
-tudunk irányítani.
-Egy táblás játékot képes leváltani (nem csak táblásat,
-bármilyen kézzel fogható játékot) annak köszönhetően, hogy
-nem kell sehová sem mennünk, hogy jétszani tudjunk. Nem kell
-nagy összegeket fizetnünk anyagköltségre és hasonlókra, a
-számítógépes játékok nagy előnye, hogy nem kell fizetnünk
-a felhasznált anyagokért és a sokszorosításért sem.
-Ezen felül egy klasszikus számítógépes társasjátékot is
-képes leváltani úgy, hogy itt játszva tanul az ember és
-megismerkedik a számítógép legnagyobb mumusának titulált
-eszküzével, a terminállal. Fiatalabbak generációk fogékonyabbak
-arra, ha játszva tanulnak, így az oktatásba könnyebben
-lehetne implementálni a terminál használatának tanítását.
+A rendszer célja egy olyan, bárki számára elérhető szoftvercsomag,
+mely egy részben leváltja a klasszikus értelemben vett társasjátékokat.
+
+* Sokak nem tudják eldönteni, hogy milyen játékot is válasszanak.
+A szoftver ebben is seítséget nyújt, mivel a későbbi verziójában
+lehetőség nyílik, hogy segítséget vegyünk igénybe. Társasjátékok
+kategorizálása (kor, nehézség, játékosok száma, téma szerint).
+Ez nagyszerű lehetőség, mivel a legtöbb társasjátékboltban a 
+játékok kiadó szerint vannak csoportosítva, így megnehezítve 
+a döntést. A szoftver keresője is segít a választásban, illetve
+később az általunk már játszott játékok alapján is ajánlást tesz.
+
+* Ha meghozza az ember a döntést, akkor sem biztos, hogy számára
+megfelelő lesz a játék (lehetséges, hogy tetszik a játék témája
+valakinek, viszont lehet, hogy a mechanikája nem fog tetszeni,
+így rossz következtetést von le az ember). A megoldás a kirpóbálási
+lehetőség, amely már több játékboltban is elérhető, viszont ez sokszor
+macerás lehet: el kell mennünk a boltba, lehet, hogy nem lesz hely,
+nincs meg az adott játék, pénzbe kerül, stb.
+A szoftvercsomag segítségével a saját otthonunkban tudjuk kipróbálni
+a játékokat, mindenféle korlátozottság nélkül (nincs hangzavar, nem vár
+senki más ránk, nem fogdosta senki össze a táblát, stb).
+
+* A kiválasztás után, ha olyan játékról van szó, amelyik nem ingyenes,
+lehetőségünk nyílik megvásárolni a játék teljes verzióját, amelyben
+mindent megtalálhatunk. Nagy előny egy klassikus társasjátékkal szemben,
+hogy itt nem kell "felesleges" plusz költségekre pénzt kiadnunk. Ezek
+a játék alkotóelemei, amelyeknek az anyagköltsége sok esetben elég magas
+tud lenni.
 
 ### Projekt terv
 
