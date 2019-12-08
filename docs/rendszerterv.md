@@ -87,6 +87,7 @@ Négy részre bontjuk a menetet
 - Követelményspecifikáció
 - Funkcionális specifikáció
 - Rendszerterv
+- Tesztelési terv
 * Szoftver megírása
 * Tesztelés
 * Hibák javítása
