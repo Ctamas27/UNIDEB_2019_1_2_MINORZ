@@ -52,6 +52,7 @@ termelni. Célja minél több felhasználó bevonása ezálltal a felhasználók
 - Gyors egyértelmű kezelőfelület
 - Újrajátszhatóság
 - Bővíthetőség
+- Teszt
 
 ## Követelménylista
 
