@@ -51,7 +51,7 @@ termelni. Célja minél több felhasználó bevonása ezálltal a felhasználók
 - Játékos állások mentése
 - Gyors egyértelmű kezelőfelület
 - Újrajátszhatóság
-- Lokális gépen való kétszemélyes játékmenet
+- Bővíthetőség
 
 ## Követelménylista
 
