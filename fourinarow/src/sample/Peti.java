@@ -16,7 +16,7 @@ import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 
-public class CreateAJarFile extends Application {
+public class Peti extends Application {
 
     static int speed = 5;
     static int foodcolor = 0;
@@ -30,7 +30,7 @@ public class CreateAJarFile extends Application {
     static boolean gameOver = false;
     static Random rand = new Random();
 
-    public static void main() {
+    public static void main(String[] arguments) {
         {
             String args = null;
             launch(args);

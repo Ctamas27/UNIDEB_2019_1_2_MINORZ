@@ -13,10 +13,11 @@ public class Menu {
         App.setRoot("zsolti");
     }
 
-
+    Stage primaryStage = new Stage();
     @FXML
     private void loadPetiGame() {
-
+        Peti peti = new Peti();
+        peti.start(primaryStage);
     }
 
     @FXML
