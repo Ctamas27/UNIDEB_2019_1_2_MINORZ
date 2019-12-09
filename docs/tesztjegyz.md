@@ -14,4 +14,5 @@ T11: |Zsolt jatek logikai funkciok                                  |sikeres
 T12: |Zsolt jatek nyertes helyzetek felismerese                     |sikeres
 T13: |Peti játék indítás                                            |sikeres
 T14: |Peti játék Game over felismés fallal való ütközéskor          |sikeres       
-T15: |Peti játék Game over felismerése magávál való ütközéskor      |sikeres  
+T15: |Peti játék Game over felismerése magávál való ütközéskor      |sikeres 
+T16: |Tomi jatek junitteszt                                         |sikeres 
